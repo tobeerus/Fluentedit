@@ -1,5 +1,6 @@
 :root {
   --fluent-version: "1.1.7";
+  /*Cool*/
   --transition: cubic-bezier(0, 0, 0, 1);
   --accent-text: #000;
   --accent-solid: rgb(var(--accent));
