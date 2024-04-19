@@ -139,6 +139,7 @@ html.theme-light #app-mount .theme-light .root_a28985 {
   --border: #e5e5e5;
   --border-mid: #e8e8e8;
   --border-high: #ececec;
+  --border-color: #131313;
   --pill-unread: #9a9a9a;
   --pill-hovered: #fff;
   --btn-bg: hsl(0 0% 100%);
