@@ -85,6 +85,7 @@ html.theme-dark #app-mount .theme-light .root_a28985 {
   --chat-bubble-bg: hsl(var(--dark-bg-h) var(--dark-bg-s) 18%);
   --chat-mention-bubble: hsl(var(--dark-bg-h) var(--dark-bg-s) 100% / 0.05);
   --border: hsl(var(--dark-bg-h) var(--dark-bg-s) 11%);
+  --border-color: #131313;
   --border-mid: hsl(var(--dark-bg-h) var(--dark-bg-s) 20%);
   --border-high: hsl(var(--dark-bg-h) var(--dark-bg-s) 23%);
   --pill-unread: hsl(var(--dark-bg-h) var(--dark-bg-s) 60%);
